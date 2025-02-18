@@ -5,7 +5,7 @@ $(document).ready(function () {
     var searchField = $.trim($("#search").val());
     var caseExp = new RegExp(searchField, "i");
 
-    $.getJSON("http://localhost/kode_pos/dataposbabel.json", function (data) {
+    $.getJSON("https://raw.githubusercontent.com/okanfdlh/kodepos_api/refs/heads/main/dataposbabel.json", function (data) {
       var output = '<div class="list-group">';
 
       $.each(data, function (key, val) {
