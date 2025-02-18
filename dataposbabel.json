@@ -1,0 +1,2662 @@
+[
+    {
+        "urban": "AIK KETEKOK",
+        "sub_district": "TANJUNG PANDAN",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33411"
+    },
+    {
+        "urban": "AIK MADU",
+        "sub_district": "SIMPANG RENGGIANG",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33562"
+    },
+    {
+        "urban": "AIK PALEMPANG JAYA",
+        "sub_district": "TANJUNG PANDAN",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33414"
+    },
+    {
+        "urban": "AIK RAYAK",
+        "sub_district": "TANJUNG PANDAN",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33413"
+    },
+    {
+        "urban": "AIR ANYIR",
+        "sub_district": "MERAWANG",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33172"
+    },
+    {
+        "urban": "AIR BARA",
+        "sub_district": "AIR GEGAS",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33782"
+    },
+    {
+        "urban": "AIR BATU",
+        "sub_district": "BADAU",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33451"
+    },
+    {
+        "urban": "AIR BELO",
+        "sub_district": "MENTOK (MUNTOK)",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33351"
+    },
+    {
+        "urban": "AIR BULIN",
+        "sub_district": "KELAPA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33364"
+    },
+    {
+        "urban": "AIR BULUH",
+        "sub_district": "MENDO BARAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33173"
+    },
+    {
+        "urban": "AIR DUREN",
+        "sub_district": "MENDO BARAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33173"
+    },
+    {
+        "urban": "AIR DUREN",
+        "sub_district": "PEMALI",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33255"
+    },
+    {
+        "urban": "AIR GANTANG",
+        "sub_district": "PARITTIGA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "AIR GEGAS",
+        "sub_district": "AIR GEGAS",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33782"
+    },
+    {
+        "urban": "AIR ITAM",
+        "sub_district": "BUKIT INTAN",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33149"
+    },
+    {
+        "urban": "AIR JUKUNG",
+        "sub_district": "BELINYU",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "AIR KELIK",
+        "sub_district": "DAMAR",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33571"
+    },
+    {
+        "urban": "AIR KEPALA TUJUH",
+        "sub_district": "GERUNGGANG",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33123"
+    },
+    {
+        "urban": "AIR KUANG",
+        "sub_district": "JEBUS",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "AIR LIMAU",
+        "sub_district": "MENTOK (MUNTOK)",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33351"
+    },
+    {
+        "urban": "AIR LINTANG",
+        "sub_district": "TEMPILANG",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33365"
+    },
+    {
+        "urban": "AIR MAWAR",
+        "sub_district": "BUKIT INTAN",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33147"
+    },
+    {
+        "urban": "AIR MENDUYUNG",
+        "sub_district": "SIMPANG TERITIP",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33366"
+    },
+    {
+        "urban": "AIR MERBAU",
+        "sub_district": "TANJUNG PANDAN",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33411"
+    },
+    {
+        "urban": "AIR MESU TIMUR",
+        "sub_district": "PANGKALAN BARU",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "AIR NYATOH",
+        "sub_district": "SIMPANG TERITIP",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33366"
+    },
+    {
+        "urban": "AIR PUTIH",
+        "sub_district": "MENTOK (MUNTOK)",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33351"
+    },
+    {
+        "urban": "AIR RUAI",
+        "sub_district": "PEMALI",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33255"
+    },
+    {
+        "urban": "AIR SAGA",
+        "sub_district": "TANJUNG PANDAN",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33415"
+    },
+    {
+        "urban": "AIR SALEMBA",
+        "sub_district": "GABEK",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33111"
+    },
+    {
+        "urban": "AIR SELUMAR",
+        "sub_district": "SIJUK",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33414"
+    },
+    {
+        "urban": "AIR SERU",
+        "sub_district": "SIJUK",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33414"
+    },
+    {
+        "urban": "AIRMESU",
+        "sub_district": "PANGKALAN BARU",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "AMPUI",
+        "sub_district": "PANGKAL BALAM",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33113"
+    },
+    {
+        "urban": "ARUNG DALAM",
+        "sub_district": "KOBA",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "ASAM",
+        "sub_district": "RANGKUI",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33135"
+    },
+    {
+        "urban": "BACANG",
+        "sub_district": "BUKIT INTAN",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33148"
+    },
+    {
+        "urban": "BADAU",
+        "sub_district": "BADAU",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33451"
+    },
+    {
+        "urban": "BAKAM",
+        "sub_district": "BAKAM",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33252"
+    },
+    {
+        "urban": "BAKIT",
+        "sub_district": "PARITTIGA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "BALOK",
+        "sub_district": "DENDANG",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33561"
+    },
+    {
+        "urban": "BALUN IJUK",
+        "sub_district": "MERAWANG",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33172"
+    },
+    {
+        "urban": "BANGKA KOTA",
+        "sub_district": "SIMPANG RIMBA",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33777"
+    },
+    {
+        "urban": "BANTAN",
+        "sub_district": "MEMBALONG",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33452"
+    },
+    {
+        "urban": "BANYU ASIN",
+        "sub_district": "RIAU SILIP",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "BARU",
+        "sub_district": "MANGGAR",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33512"
+    },
+    {
+        "urban": "BASKARA BAKTI / BHAKTI",
+        "sub_district": "NAMANG",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "BATIN TIKAL",
+        "sub_district": "TAMAN SARI",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33121"
+    },
+    {
+        "urban": "BATU BELUBANG",
+        "sub_district": "PANGKALAN BARU",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "BATU BERIGA",
+        "sub_district": "LUBUK BESAR",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "BATU BETUMPANG",
+        "sub_district": "PULAU BESAR",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33778"
+    },
+    {
+        "urban": "BATU INTAN",
+        "sub_district": "GIRIMAYA",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33141"
+    },
+    {
+        "urban": "BATU ITAM",
+        "sub_district": "SIJUK",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33414"
+    },
+    {
+        "urban": "BATU PENYU",
+        "sub_district": "GANTUNG",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33562"
+    },
+    {
+        "urban": "BATURUSA",
+        "sub_district": "MERAWANG",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33172"
+    },
+    {
+        "urban": "BEDENGUNG",
+        "sub_district": "PAYUNG",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33778"
+    },
+    {
+        "urban": "BELILIK",
+        "sub_district": "NAMANG",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "BELIMBING",
+        "sub_district": "LUBUK BESAR",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "BELOLAUT",
+        "sub_district": "MENTOK (MUNTOK)",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33351"
+    },
+    {
+        "urban": "BELULUK",
+        "sub_district": "PANGKALAN BARU",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "BENCAH",
+        "sub_district": "AIR GEGAS",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33782"
+    },
+    {
+        "urban": "BENTAIAN JAYA",
+        "sub_district": "MANGGAR",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33517"
+    },
+    {
+        "urban": "BENTENG KOTA / KUTA",
+        "sub_district": "TEMPILANG",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33365"
+    },
+    {
+        "urban": "BENTENG",
+        "sub_district": "PANGKALAN BARU",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "BERANG",
+        "sub_district": "SIMPANG TERITIP",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33366"
+    },
+    {
+        "urban": "BERBURA",
+        "sub_district": "RIAU SILIP",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "BEROK",
+        "sub_district": "KOBA",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "BERUAS",
+        "sub_district": "KELAPA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33364"
+    },
+    {
+        "urban": "BERUAS",
+        "sub_district": "SIMPANG KATIS",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33674"
+    },
+    {
+        "urban": "BIKANG",
+        "sub_district": "TOBOALI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "BINTANG",
+        "sub_district": "RANGKUI",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33138"
+    },
+    {
+        "urban": "BINTET",
+        "sub_district": "BELINYU",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "BUDING",
+        "sub_district": "KELAPA KAMPIT",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33571"
+    },
+    {
+        "urban": "BUKIT BESAR",
+        "sub_district": "GIRIMAYA",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33145"
+    },
+    {
+        "urban": "BUKIT KETOK",
+        "sub_district": "BELINYU",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "BUKIT KIJANG",
+        "sub_district": "NAMANG",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "BUKIT LAYANG",
+        "sub_district": "BAKAM",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33252"
+    },
+    {
+        "urban": "BUKIT MERAPIN (BUKIT MERAPEN)",
+        "sub_district": "GERUNGGANG",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33123"
+    },
+    {
+        "urban": "BUKIT SARI",
+        "sub_district": "GERUNGGANG",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33123"
+    },
+    {
+        "urban": "BUKIT TERAK",
+        "sub_district": "SIMPANG TERITIP",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33366"
+    },
+    {
+        "urban": "BUKIT TERAP",
+        "sub_district": "TUKAK SADAI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "BULUH TUMBANG",
+        "sub_district": "TANJUNG PANDAN",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33411"
+    },
+    {
+        "urban": "BURUNG MANDI",
+        "sub_district": "DAMAR",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33571"
+    },
+    {
+        "urban": "BUYAN KELUMBI",
+        "sub_district": "TEMPILANG",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33365"
+    },
+    {
+        "urban": "CAMBAI SELATAN",
+        "sub_district": "NAMANG",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "CAMBAI",
+        "sub_district": "NAMANG",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "CELAGEN",
+        "sub_district": "KEPULAUAN PONGOK",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33791"
+    },
+    {
+        "urban": "CELUAK",
+        "sub_district": "SIMPANG KATIS",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33674"
+    },
+    {
+        "urban": "CENDIL",
+        "sub_district": "KELAPA KAMPIT",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33571"
+    },
+    {
+        "urban": "CENGKONG ABANG",
+        "sub_district": "MENDO BARAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33173"
+    },
+    {
+        "urban": "CERUCUK",
+        "sub_district": "BADAU",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33451"
+    },
+    {
+        "urban": "CIT",
+        "sub_district": "RIAU SILIP",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "CUPAT",
+        "sub_district": "PARITTIGA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "DALIL",
+        "sub_district": "BAKAM",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33252"
+    },
+    {
+        "urban": "DELAS",
+        "sub_district": "AIR GEGAS",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33782"
+    },
+    {
+        "urban": "DENDANG",
+        "sub_district": "DENDANG",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33561"
+    },
+    {
+        "urban": "DENDANG",
+        "sub_district": "KELAPA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33364"
+    },
+    {
+        "urban": "DENIANG",
+        "sub_district": "RIAU SILIP",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "DUKONG",
+        "sub_district": "SIMPANG PESAK",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33561"
+    },
+    {
+        "urban": "DUKONG",
+        "sub_district": "TANJUNG PANDAN",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33411"
+    },
+    {
+        "urban": "DUL",
+        "sub_district": "PANGKALAN BARU",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "DWI MAKMUR",
+        "sub_district": "MERAWANG",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33172"
+    },
+    {
+        "urban": "FAJAR INDAH (TRANS 1)",
+        "sub_district": "PULAU BESAR",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33778"
+    },
+    {
+        "urban": "GABEK DUA",
+        "sub_district": "GABEK",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33116"
+    },
+    {
+        "urban": "GABEK SATU",
+        "sub_district": "GABEK",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33118"
+    },
+    {
+        "urban": "GADUNG",
+        "sub_district": "TOBOALI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "GANTUNG",
+        "sub_district": "GANTUNG",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33562"
+    },
+    {
+        "urban": "GEDUNG NASIONAL",
+        "sub_district": "TAMAN SARI",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33127"
+    },
+    {
+        "urban": "GUDANG",
+        "sub_district": "SIMPANG RIMBA",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33777"
+    },
+    {
+        "urban": "GUNTUNG",
+        "sub_district": "KOBA",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "GUNUNG MUDA",
+        "sub_district": "BELINYU",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "GUNUNG PELAWAN",
+        "sub_district": "BELINYU",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "GUNUNG RITING",
+        "sub_district": "MEMBALONG",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33452"
+    },
+    {
+        "urban": "IBUL",
+        "sub_district": "BADAU",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33451"
+    },
+    {
+        "urban": "IBUL",
+        "sub_district": "SIMPANG TERITIP",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33366"
+    },
+    {
+        "urban": "IRAT",
+        "sub_district": "PAYUNG",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33778"
+    },
+    {
+        "urban": "JADA BAHRIN",
+        "sub_district": "MERAWANG",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33172"
+    },
+    {
+        "urban": "JANGKANG",
+        "sub_district": "DENDANG",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33561"
+    },
+    {
+        "urban": "JANGKAR ASAM",
+        "sub_district": "GANTUNG",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33562"
+    },
+    {
+        "urban": "JEBUS",
+        "sub_district": "JEBUS",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "JELUTUNG II",
+        "sub_district": "SIMPANG RIMBA",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33777"
+    },
+    {
+        "urban": "JELUTUNG",
+        "sub_district": "NAMANG",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "JERAMBAH GANTUNG",
+        "sub_district": "GABEK",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33119"
+    },
+    {
+        "urban": "JERIJI",
+        "sub_district": "TOBOALI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "JERUK",
+        "sub_district": "PANGKALAN BARU",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "JURU SEBERANG",
+        "sub_district": "TANJUNG PANDAN",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33417"
+    },
+    {
+        "urban": "JURUNG",
+        "sub_district": "MERAWANG",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33172"
+    },
+    {
+        "urban": "KACANG BOTOR",
+        "sub_district": "BADAU",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33451"
+    },
+    {
+        "urban": "KACANG PEDANG",
+        "sub_district": "GERUNGGANG",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33125"
+    },
+    {
+        "urban": "KACE TIMUR",
+        "sub_district": "MENDO BARAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33173"
+    },
+    {
+        "urban": "KACE",
+        "sub_district": "MENDO BARAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33173"
+    },
+    {
+        "urban": "KACUNG",
+        "sub_district": "KELAPA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33364"
+    },
+    {
+        "urban": "KAPIT",
+        "sub_district": "PARITTIGA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "KAPOSANG / KEPOSANG",
+        "sub_district": "TOBOALI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "KAPUK",
+        "sub_district": "BAKAM",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33252"
+    },
+    {
+        "urban": "KARYA MAKMUR",
+        "sub_district": "PEMALI",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33255"
+    },
+    {
+        "urban": "KATIS",
+        "sub_district": "SIMPANG KATIS",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33674"
+    },
+    {
+        "urban": "KAYU BESI",
+        "sub_district": "NAMANG",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "KAYU BESI",
+        "sub_district": "PUDING BESAR",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33179"
+    },
+    {
+        "urban": "KAYUARANG",
+        "sub_district": "KELAPA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33364"
+    },
+    {
+        "urban": "KEBINTIK",
+        "sub_district": "PANGKALAN BARU",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "KECIPUT",
+        "sub_district": "SIJUK",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33414"
+    },
+    {
+        "urban": "KEJAKSAAN",
+        "sub_district": "TAMAN SARI",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33123"
+    },
+    {
+        "urban": "KELABAT",
+        "sub_district": "PARITTIGA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "KELAPA",
+        "sub_district": "KELAPA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33364"
+    },
+    {
+        "urban": "KELUBI",
+        "sub_district": "MANGGAR",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33517"
+    },
+    {
+        "urban": "KEMBIRI",
+        "sub_district": "MEMBALONG",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33452"
+    },
+    {
+        "urban": "KEMINGKING",
+        "sub_district": "SUNGAI SELAN",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33675"
+    },
+    {
+        "urban": "KEMUJA",
+        "sub_district": "MENDO BARAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33173"
+    },
+    {
+        "urban": "KENANGA",
+        "sub_district": "SUNGAI LIAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33211"
+    },
+    {
+        "urban": "KEPOH",
+        "sub_district": "TOBOALI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "KERAKAS",
+        "sub_district": "SUNGAI SELAN",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33675"
+    },
+    {
+        "urban": "KERAMAT",
+        "sub_district": "RANGKUI",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33134"
+    },
+    {
+        "urban": "KERANTAI",
+        "sub_district": "SUNGAI SELAN",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33675"
+    },
+    {
+        "urban": "KERETAK ATAS",
+        "sub_district": "SUNGAI SELAN",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33675"
+    },
+    {
+        "urban": "KERETAK",
+        "sub_district": "SUNGAI SELAN",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33675"
+    },
+    {
+        "urban": "KETAP",
+        "sub_district": "JEBUS",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "KETAPANG",
+        "sub_district": "PANGKAL BALAM",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33111"
+    },
+    {
+        "urban": "KIMAK",
+        "sub_district": "MERAWANG",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33172"
+    },
+    {
+        "urban": "KOBA",
+        "sub_district": "KOBA",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "KOTA KAPUR",
+        "sub_district": "MENDO BARAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33173"
+    },
+    {
+        "urban": "KOTA TANJUNG PANDAN",
+        "sub_district": "TANJUNG PANDAN",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33411"
+    },
+    {
+        "urban": "KOTA WARINGIN",
+        "sub_district": "PUDING BESAR",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33179"
+    },
+    {
+        "urban": "KUDAI (KUDAY)",
+        "sub_district": "SUNGAI LIAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33213"
+    },
+    {
+        "urban": "KULUR HILIR",
+        "sub_district": "LUBUK BESAR",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "KULUR",
+        "sub_district": "LUBUK BESAR",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "KUMBUNG",
+        "sub_district": "LEPAR PONGOK",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33791"
+    },
+    {
+        "urban": "KUNDI",
+        "sub_district": "SIMPANG TERITIP",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33366"
+    },
+    {
+        "urban": "KURAU (TIMUR)",
+        "sub_district": "KOBA",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "KURAU BARAT",
+        "sub_district": "KOBA",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "KURNIA JAYA",
+        "sub_district": "MANGGAR",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33512"
+    },
+    {
+        "urban": "KUTO PANJI",
+        "sub_district": "BELINYU",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "LABU",
+        "sub_district": "PUDING BESAR",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33179"
+    },
+    {
+        "urban": "LABUH AIR PANDAN",
+        "sub_district": "MENDO BARAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33173"
+    },
+    {
+        "urban": "LALANG JAYA",
+        "sub_district": "MANGGAR",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33511"
+    },
+    {
+        "urban": "LALANG",
+        "sub_district": "MANGGAR",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33511"
+    },
+    {
+        "urban": "LAMPUR",
+        "sub_district": "SUNGAI SELAN",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33675"
+    },
+    {
+        "urban": "LASSAR",
+        "sub_district": "MEMBALONG",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33452"
+    },
+    {
+        "urban": "LENGGANG",
+        "sub_district": "GANTUNG",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33562"
+    },
+    {
+        "urban": "LESUNG BATANG",
+        "sub_district": "TANJUNG PANDAN",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33411"
+    },
+    {
+        "urban": "LILANGAN",
+        "sub_district": "GANTUNG",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33562"
+    },
+    {
+        "urban": "LIMBONGAN",
+        "sub_district": "GANTUNG",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33562"
+    },
+    {
+        "urban": "LIMBUNG",
+        "sub_district": "JEBUS",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "LINTANG",
+        "sub_district": "SIMPANG RENGGIANG",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33562"
+    },
+    {
+        "urban": "LONTONG PANCUR",
+        "sub_district": "PANGKAL BALAM",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33115"
+    },
+    {
+        "urban": "LUBUK BESAR",
+        "sub_district": "LUBUK BESAR",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "LUBUK LINGKUK",
+        "sub_district": "LUBUK BESAR",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "LUBUK PABRIK",
+        "sub_district": "LUBUK BESAR",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "LUMUT",
+        "sub_district": "BELINYU",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "MABAT",
+        "sub_district": "BAKAM",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33252"
+    },
+    {
+        "urban": "MALIK",
+        "sub_district": "PAYUNG",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33778"
+    },
+    {
+        "urban": "MANCUNG",
+        "sub_district": "KELAPA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33364"
+    },
+    {
+        "urban": "MANGKA",
+        "sub_district": "BAKAM",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33252"
+    },
+    {
+        "urban": "MANGKOL",
+        "sub_district": "PANGKALAN BARU",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "MAPUR",
+        "sub_district": "RIAU SILIP",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "MARAS SENANG",
+        "sub_district": "BAKAM",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33252"
+    },
+    {
+        "urban": "MASJID JAMIK",
+        "sub_district": "RANGKUI",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33132"
+    },
+    {
+        "urban": "MAYANG",
+        "sub_district": "KELAPA KAMPIT",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33571"
+    },
+    {
+        "urban": "MAYANG",
+        "sub_district": "SIMPANG TERITIP",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33366"
+    },
+    {
+        "urban": "MEKAR JAYA",
+        "sub_district": "MANGGAR",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33517"
+    },
+    {
+        "urban": "MELABUN",
+        "sub_district": "SUNGAI SELAN",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33675"
+    },
+    {
+        "urban": "MELINTANG",
+        "sub_district": "RANGKUI",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33136"
+    },
+    {
+        "urban": "MEMBALONG",
+        "sub_district": "MEMBALONG",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33452"
+    },
+    {
+        "urban": "MEMPAYA",
+        "sub_district": "DAMAR",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33515"
+    },
+    {
+        "urban": "MENDO (MENDUK)",
+        "sub_district": "MENDO BARAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33173"
+    },
+    {
+        "urban": "MENGKUBANG",
+        "sub_district": "DAMAR",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33514"
+    },
+    {
+        "urban": "MENTAWAK",
+        "sub_district": "KELAPA KAMPIT",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33571"
+    },
+    {
+        "urban": "MENTIGI",
+        "sub_district": "MEMBALONG",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33452"
+    },
+    {
+        "urban": "MERAWANG",
+        "sub_district": "MERAWANG",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33172"
+    },
+    {
+        "urban": "MISLAK",
+        "sub_district": "JEBUS",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "MUNGGU",
+        "sub_district": "SUNGAI SELAN",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33675"
+    },
+    {
+        "urban": "NADUNG",
+        "sub_district": "PAYUNG",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33778"
+    },
+    {
+        "urban": "NAMANG",
+        "sub_district": "NAMANG",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "NANGKA",
+        "sub_district": "AIR GEGAS",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33782"
+    },
+    {
+        "urban": "NEKNANG",
+        "sub_district": "BAKAM",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33252"
+    },
+    {
+        "urban": "NIBUNG",
+        "sub_district": "KOBA",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "NIBUNG",
+        "sub_district": "PUDING BESAR",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33179"
+    },
+    {
+        "urban": "NYELANDING",
+        "sub_district": "AIR GEGAS",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33782"
+    },
+    {
+        "urban": "NYURUK",
+        "sub_district": "DENDANG",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33561"
+    },
+    {
+        "urban": "OPAS INDAH",
+        "sub_district": "TAMAN SARI",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33121"
+    },
+    {
+        "urban": "PAAL SATU",
+        "sub_district": "TANJUNG PANDAN",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33414"
+    },
+    {
+        "urban": "PADANG BARU",
+        "sub_district": "PANGKALAN BARU",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "PADANG KANDIS",
+        "sub_district": "MEMBALONG",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33452"
+    },
+    {
+        "urban": "PADANG MULYA",
+        "sub_district": "KOBA",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "PADANG",
+        "sub_district": "MANGGAR",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33516"
+    },
+    {
+        "urban": "PAGARAWAN",
+        "sub_district": "MERAWANG",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33172"
+    },
+    {
+        "urban": "PAKU",
+        "sub_district": "PAYUNG",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33778"
+    },
+    {
+        "urban": "PANCA TUNGGAL (TRANS 3)",
+        "sub_district": "PULAU BESAR",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33778"
+    },
+    {
+        "urban": "PANGEK",
+        "sub_district": "SIMPANG TERITIP",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33366"
+    },
+    {
+        "urban": "PANGKAL BERAS",
+        "sub_district": "KELAPA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33364"
+    },
+    {
+        "urban": "PANGKAL LALANG",
+        "sub_district": "TANJUNG PANDAN",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33412"
+    },
+    {
+        "urban": "PANGKAL NIUR",
+        "sub_district": "RIAU SILIP",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "PANGKALBULUH",
+        "sub_district": "PAYUNG",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33778"
+    },
+    {
+        "urban": "PARIT LALANG",
+        "sub_district": "RANGKUI",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33137"
+    },
+    {
+        "urban": "PARIT PADANG",
+        "sub_district": "SUNGAI LIAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33215"
+    },
+    {
+        "urban": "PARIT",
+        "sub_district": "TANJUNG PANDAN",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33411"
+    },
+    {
+        "urban": "PASAR PADI",
+        "sub_district": "GIRIMAYA",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33142"
+    },
+    {
+        "urban": "PASIR GARAM",
+        "sub_district": "PANGKAL BALAM",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33115"
+    },
+    {
+        "urban": "PASIR GARAM",
+        "sub_district": "SIMPANG KATIS",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33674"
+    },
+    {
+        "urban": "PASIR PUTIH",
+        "sub_district": "BUKIT INTAN",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33147"
+    },
+    {
+        "urban": "PASIR PUTIH",
+        "sub_district": "RANGKUI",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33139"
+    },
+    {
+        "urban": "PASIR PUTIH",
+        "sub_district": "TUKAK SADAI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "PAYABENUA",
+        "sub_district": "MENDO BARAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33173"
+    },
+    {
+        "urban": "PAYUNG",
+        "sub_district": "PAYUNG",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33778"
+    },
+    {
+        "urban": "PEBUAR",
+        "sub_district": "JEBUS",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "PEGANTUNGAN",
+        "sub_district": "BADAU",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33451"
+    },
+    {
+        "urban": "PELANGAS",
+        "sub_district": "SIMPANG TERITIP",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33366"
+    },
+    {
+        "urban": "PELEPAK PUTE",
+        "sub_district": "SIJUK",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33414"
+    },
+    {
+        "urban": "PELINDANG (SELINDUNG)",
+        "sub_district": "PANGKALAN BARU",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "PEMALI",
+        "sub_district": "PEMALI",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33255"
+    },
+    {
+        "urban": "PEMBAHARUAN",
+        "sub_district": "KELAPA KAMPIT",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33571"
+    },
+    {
+        "urban": "PENAGAN",
+        "sub_district": "MENDO BARAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33173"
+    },
+    {
+        "urban": "PENUTUK",
+        "sub_district": "LEPAR PONGOK",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33791"
+    },
+    {
+        "urban": "PENYAK",
+        "sub_district": "KOBA",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "PENYAMPAK",
+        "sub_district": "TEMPILANG",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33365"
+    },
+    {
+        "urban": "PENYAMUN",
+        "sub_district": "PEMALI",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33251"
+    },
+    {
+        "urban": "PERADONG",
+        "sub_district": "SIMPANG TERITIP",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33366"
+    },
+    {
+        "urban": "PERAWAS",
+        "sub_district": "TANJUNG PANDAN",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33413"
+    },
+    {
+        "urban": "PERGAM",
+        "sub_district": "AIR GEGAS",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33782"
+    },
+    {
+        "urban": "PERLANG",
+        "sub_district": "LUBUK BESAR",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "PERMIS",
+        "sub_district": "SIMPANG RIMBA",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33777"
+    },
+    {
+        "urban": "PERPAT",
+        "sub_district": "MEMBALONG",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33452"
+    },
+    {
+        "urban": "PETALING BANJAR",
+        "sub_district": "MENDO BARAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33173"
+    },
+    {
+        "urban": "PETALING",
+        "sub_district": "MENDO BARAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33173"
+    },
+    {
+        "urban": "PETALING",
+        "sub_district": "SELAT NASIK",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33481"
+    },
+    {
+        "urban": "PINANG SEBATANG",
+        "sub_district": "SIMPANG KATIS",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33674"
+    },
+    {
+        "urban": "PINTU AIR",
+        "sub_district": "RANGKUI",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33133"
+    },
+    {
+        "urban": "PONGOK",
+        "sub_district": "KEPULAUAN PONGOK",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33791"
+    },
+    {
+        "urban": "PUDINGBESAR",
+        "sub_district": "PUDING BESAR",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33179"
+    },
+    {
+        "urban": "PUGUL",
+        "sub_district": "RIAU SILIP",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "PULAU BUKU LIMAU",
+        "sub_district": "MANGGAR",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33511"
+    },
+    {
+        "urban": "PULAU GRESIK",
+        "sub_district": "SELAT NASIK",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33481"
+    },
+    {
+        "urban": "PULAU SELIU",
+        "sub_district": "MEMBALONG",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33452"
+    },
+    {
+        "urban": "PULAU SUMEDANG",
+        "sub_district": "MEMBALONG",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33452"
+    },
+    {
+        "urban": "PUPUT",
+        "sub_district": "PARITTIGA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "PUPUT",
+        "sub_district": "SIMPANG KATIS",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33674"
+    },
+    {
+        "urban": "PUSUK",
+        "sub_district": "KELAPA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33364"
+    },
+    {
+        "urban": "RAJIK",
+        "sub_district": "SIMPANG RIMBA",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33777"
+    },
+    {
+        "urban": "RAMADHON (ROMADHONI)",
+        "sub_district": "SUNGAI SELAN",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33675"
+    },
+    {
+        "urban": "RAMBAT",
+        "sub_district": "SIMPANG TERITIP",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33366"
+    },
+    {
+        "urban": "RANGGAS",
+        "sub_district": "AIR GEGAS",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33782"
+    },
+    {
+        "urban": "RANGGI ASAM",
+        "sub_district": "JEBUS",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "RANGGUNG",
+        "sub_district": "PAYUNG",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33778"
+    },
+    {
+        "urban": "RAWA BANGUN",
+        "sub_district": "TAMAN SARI",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33121"
+    },
+    {
+        "urban": "REBO",
+        "sub_district": "SUNGAI LIAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33211"
+    },
+    {
+        "urban": "REJOSARI",
+        "sub_district": "PANGKAL BALAM",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33111"
+    },
+    {
+        "urban": "RENGGIANG",
+        "sub_district": "SIMPANG RENGGIANG",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33562"
+    },
+    {
+        "urban": "RIAS",
+        "sub_district": "TOBOALI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "RIAU",
+        "sub_district": "RIAU SILIP",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "RIDING PANJANG",
+        "sub_district": "BELINYU",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "RIDING PANJANG",
+        "sub_district": "MERAWANG",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33172"
+    },
+    {
+        "urban": "RINDIK",
+        "sub_district": "TOBOALI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "RUKAM",
+        "sub_district": "JEBUS",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "RUKAM",
+        "sub_district": "MENDO BARAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33173"
+    },
+    {
+        "urban": "SADAI",
+        "sub_district": "TUKAK SADAI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "SAING",
+        "sub_district": "PUDING BESAR",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33179"
+    },
+    {
+        "urban": "SANGKU",
+        "sub_district": "TEMPILANG",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33365"
+    },
+    {
+        "urban": "SARANGMANDI",
+        "sub_district": "SUNGAI SELAN",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33675"
+    },
+    {
+        "urban": "SEBAGIN",
+        "sub_district": "SIMPANG RIMBA",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33777"
+    },
+    {
+        "urban": "SEKAR BIRU",
+        "sub_district": "PARITTIGA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "SELAT NASIK",
+        "sub_district": "SELAT NASIK",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33481"
+    },
+    {
+        "urban": "SELINDUNG (SELINDUNG LAMA)",
+        "sub_district": "GABEK",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33117"
+    },
+    {
+        "urban": "SELINDUNG BARU",
+        "sub_district": "GABEK",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33117"
+    },
+    {
+        "urban": "SELINGSING",
+        "sub_district": "GANTUNG",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33562"
+    },
+    {
+        "urban": "SEMABUNG BARU",
+        "sub_district": "GIRIMAYA",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33146"
+    },
+    {
+        "urban": "SEMABUNG LAMA",
+        "sub_district": "BUKIT INTAN",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33147"
+    },
+    {
+        "urban": "SEMPAN",
+        "sub_district": "PEMALI",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33251"
+    },
+    {
+        "urban": "SEMULUT",
+        "sub_district": "PARITTIGA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "SENGIR",
+        "sub_district": "PAYUNG",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33778"
+    },
+    {
+        "urban": "SENYUBUK",
+        "sub_district": "KELAPA KAMPIT",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33571"
+    },
+    {
+        "urban": "SERDANG",
+        "sub_district": "TOBOALI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "SIDOHARJO",
+        "sub_district": "AIR GEGAS",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33782"
+    },
+    {
+        "urban": "SIJUK",
+        "sub_district": "SIJUK",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33414"
+    },
+    {
+        "urban": "SILIP",
+        "sub_district": "RIAU SILIP",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33253"
+    },
+    {
+        "urban": "SIMPANG GUNG",
+        "sub_district": "SIMPANG TERITIP",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33366"
+    },
+    {
+        "urban": "SIMPANG KATIS",
+        "sub_district": "SIMPANG KATIS",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33674"
+    },
+    {
+        "urban": "SIMPANG PERLANG",
+        "sub_district": "KOBA",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "SIMPANG PESAK",
+        "sub_district": "SIMPANG PESAK",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33561"
+    },
+    {
+        "urban": "SIMPANG RIMBA",
+        "sub_district": "SIMPANG RIMBA",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33777"
+    },
+    {
+        "urban": "SIMPANG RUSA",
+        "sub_district": "MEMBALONG",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33452"
+    },
+    {
+        "urban": "SIMPANG TIGA",
+        "sub_district": "SIMPANG RENGGIANG",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33562"
+    },
+    {
+        "urban": "SIMPANG TIGA",
+        "sub_district": "SIMPANG TERITIP",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33366"
+    },
+    {
+        "urban": "SIMPANG YUL",
+        "sub_district": "TEMPILANG",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33365"
+    },
+    {
+        "urban": "SINAR BARU",
+        "sub_district": "SUNGAI LIAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33212"
+    },
+    {
+        "urban": "SINAR BULAN",
+        "sub_district": "BUKIT INTAN",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33147"
+    },
+    {
+        "urban": "SINAR MANIK",
+        "sub_district": "JEBUS",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "SINAR SARI",
+        "sub_district": "KELAPA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33364"
+    },
+    {
+        "urban": "SINAR SURYA",
+        "sub_district": "TEMPILANG",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33365"
+    },
+    {
+        "urban": "SRIMENANTI",
+        "sub_district": "SUNGAI LIAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33214"
+    },
+    {
+        "urban": "SRIWIJAYA",
+        "sub_district": "GIRIMAYA",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33143"
+    },
+    {
+        "urban": "SUAK GUAL",
+        "sub_district": "SELAT NASIK",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33481"
+    },
+    {
+        "urban": "SUKAJAYA",
+        "sub_district": "PULAU BESAR",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33778"
+    },
+    {
+        "urban": "SUKAMANDI",
+        "sub_district": "DAMAR",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33513"
+    },
+    {
+        "urban": "SUMBER JAYA PERMAI (TRANS 4)",
+        "sub_district": "PULAU BESAR",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33778"
+    },
+    {
+        "urban": "SUNGAI BARU",
+        "sub_district": "MENTOK (MUNTOK)",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33312"
+    },
+    {
+        "urban": "SUNGAI BULUH",
+        "sub_district": "JEBUS",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "SUNGAI DAENG",
+        "sub_district": "MENTOK (MUNTOK)",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33313"
+    },
+    {
+        "urban": "SUNGAI PADANG",
+        "sub_district": "SIJUK",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33414"
+    },
+    {
+        "urban": "SUNGAI SAMAK",
+        "sub_district": "BADAU",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33451"
+    },
+    {
+        "urban": "SUNGAI SELAN ATAS",
+        "sub_district": "SUNGAI SELAN",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33675"
+    },
+    {
+        "urban": "SUNGAI SELAN",
+        "sub_district": "SUNGAI SELAN",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33675"
+    },
+    {
+        "urban": "SUNGAILIAT",
+        "sub_district": "SUNGAI LIAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33211"
+    },
+    {
+        "urban": "SUNGKAP",
+        "sub_district": "SIMPANG KATIS",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33674"
+    },
+    {
+        "urban": "TAMAN BUNGA",
+        "sub_district": "GERUNGGANG",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33123"
+    },
+    {
+        "urban": "TANAH BAWAH",
+        "sub_district": "PUDING BESAR",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33179"
+    },
+    {
+        "urban": "TANJONG TINGGI",
+        "sub_district": "SIJUK",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33414"
+    },
+    {
+        "urban": "TANJUNG BATU ITAM",
+        "sub_district": "SIMPANG PESAK",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33561"
+    },
+    {
+        "urban": "TANJUNG BINGA",
+        "sub_district": "SIJUK",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33414"
+    },
+    {
+        "urban": "TANJUNG GUNUNG",
+        "sub_district": "PANGKALAN BARU",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33684"
+    },
+    {
+        "urban": "TANJUNG KELUMPANG",
+        "sub_district": "SIMPANG PESAK",
+        "city": "BELITUNG TIMUR",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33561"
+    },
+    {
+        "urban": "TANJUNG KETAPANG",
+        "sub_district": "TOBOALI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "TANJUNG LABU",
+        "sub_district": "LEPAR PONGOK",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33791"
+    },
+    {
+        "urban": "TANJUNG PENDAM",
+        "sub_district": "TANJUNG PANDAN",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33411"
+    },
+    {
+        "urban": "TANJUNG PURA",
+        "sub_district": "SUNGAI SELAN",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33675"
+    },
+    {
+        "urban": "TANJUNG RUSA",
+        "sub_district": "MEMBALONG",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33452"
+    },
+    {
+        "urban": "TANJUNG SANGKAR",
+        "sub_district": "LEPAR PONGOK",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33791"
+    },
+    {
+        "urban": "TANJUNG",
+        "sub_district": "MENTOK (MUNTOK)",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33311"
+    },
+    {
+        "urban": "TANJUNGNIUR",
+        "sub_district": "TEMPILANG",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33365"
+    },
+    {
+        "urban": "TEBING",
+        "sub_district": "KELAPA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33364"
+    },
+    {
+        "urban": "TELADAN",
+        "sub_district": "TOBOALI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "TELAK",
+        "sub_district": "PARITTIGA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "TELUK LIMAU",
+        "sub_district": "PARITTIGA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "TEMBERAN",
+        "sub_district": "BUKIT INTAN",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33147"
+    },
+    {
+        "urban": "TEMPILANG",
+        "sub_district": "TEMPILANG",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33365"
+    },
+    {
+        "urban": "TEPUS",
+        "sub_district": "AIR GEGAS",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33782"
+    },
+    {
+        "urban": "TERAK",
+        "sub_district": "SIMPANG KATIS",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33674"
+    },
+    {
+        "urban": "TERENTANG III",
+        "sub_district": "KOBA",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "TERENTANG",
+        "sub_district": "KELAPA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33364"
+    },
+    {
+        "urban": "TERONG",
+        "sub_district": "SIJUK",
+        "city": "BELITUNG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33414"
+    },
+    {
+        "urban": "TERU",
+        "sub_district": "SIMPANG KATIS",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33674"
+    },
+    {
+        "urban": "TIANG TARA",
+        "sub_district": "BAKAM",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33252"
+    },
+    {
+        "urban": "TIRAM",
+        "sub_district": "TUKAK SADAI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "TOBOALI",
+        "sub_district": "TOBOALI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "TRUBUS",
+        "sub_district": "LUBUK BESAR",
+        "city": "BANGKA TENGAH",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33681"
+    },
+    {
+        "urban": "TUA TUNU INDAH",
+        "sub_district": "GERUNGGANG",
+        "city": "PANGKAL PINANG",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33124"
+    },
+    {
+        "urban": "TUGANG",
+        "sub_district": "KELAPA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33364"
+    },
+    {
+        "urban": "TUIK",
+        "sub_district": "KELAPA",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33364"
+    },
+    {
+        "urban": "TUKAK",
+        "sub_district": "TUKAK SADAI",
+        "city": "BANGKA SELATAN",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33783"
+    },
+    {
+        "urban": "TUMBAK PETAR",
+        "sub_district": "JEBUS",
+        "city": "BANGKA BARAT",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33362"
+    },
+    {
+        "urban": "ZED",
+        "sub_district": "MENDO BARAT",
+        "city": "BANGKA",
+        "province_code": "KEPULAUAN BANGKA BELITUNG",
+        "postal_code": "33173"
+    }
+]
