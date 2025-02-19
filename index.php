@@ -8,7 +8,7 @@
     <title>Kode Pos Bangka Belitung</title>
   </head>
   <?php
-  $apiUrl = "https://raw.githubusercontent.com/okanfdlh/kodepos_api/refs/heads/main/dataposbabel.json";
+  $apiUrl = "/dataposbabel.json";
   $response = file_get_contents($apiUrl);
   $data = json_decode($response, true);
   ?>
